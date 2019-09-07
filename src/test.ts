@@ -1,7 +1,7 @@
-import ExampleComponent from './'
+import Pager from './'
 
-describe('ExampleComponent', () => {
+describe('Pager', () => {
   it('is truthy', () => {
-    expect(ExampleComponent).toBeTruthy()
+    expect(Pager).toBeTruthy()
   })
 })
